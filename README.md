@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Distributed Systems<br>👯 I’m looking to collaborate on Software Engineering Issues <br>🤝 I’m looking for help to expand Software Engineering Skills <br>🌱 I’m currently learning Vector DB and Distributed Query Engines
+🔭 I’m currently working on Software Distributed Systems<br>👯 I’m looking to collaborate on Software Engineering Issues <br>🤝 I’m looking for help to expand Software Engineering Skills <br>🌱 I’m currently learning Designing Scalable Systems
 
 
 ## 🌐 Socials:
