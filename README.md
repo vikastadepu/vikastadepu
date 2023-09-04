@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Distributed systems and Data Pipelines<br>👯 I’m looking to collaborate on Gen AI for Knowledge Graphs using unstructured data <br>🤝 I’m looking for help with Scala and Go<br>🌱 I’m currently learning Vector DB and Distributed Query Engines<br>💬 Ask me about Streaming pipelines<br>⚡ Fun fact : I thrive on the spontaneity of connecting with strangers
+🔭 I’m currently working on Software Distributed Systems<br>👯 I’m looking to collaborate on Software Engineering Issues <br>🤝 I’m looking for help to expand Software Engineering Skills <br>🌱 I’m currently learning Vector DB and Distributed Query Engines
 
 
 ## 🌐 Socials:
